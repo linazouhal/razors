@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\tp\\TP2_razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\afficherliste.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\afficherliste.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\afficherliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\afficherliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\pagesrazor\\exemple2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\pagesrazor\\exemple2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\pagesrazor\\exemple1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\pagesrazor\\exemple1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|c:\\dotnet\\tp\\tp2_razor\\tp2_razor\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F50894-0051-44EB-A9E2-43A9B2BE1C63}|TP2_razor\\TP2_razor.csproj|solutionrelative:tp2_razor\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AfficherListe.cshtml.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\AfficherListe.cshtml.cs",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\AfficherListe.cshtml.cs",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\AfficherListe.cshtml.cs",
+              "RelativeToolTip": "TP2_razor\\Pages\\AfficherListe.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:49:35.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AfficherListe.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\AfficherListe.cshtml",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\AfficherListe.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\AfficherListe.cshtml",
+              "RelativeToolTip": "TP2_razor\\Pages\\AfficherListe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T18:48:55.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index1.cshtml.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\Index1.cshtml.cs",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\Index1.cshtml.cs",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\Index1.cshtml.cs",
+              "RelativeToolTip": "TP2_razor\\Pages\\Index1.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:46:23.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\Index1.cshtml",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\Index1.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\Index1.cshtml",
+              "RelativeToolTip": "TP2_razor\\Pages\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T18:42:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "TP2_razor\\Models\\Client.cs",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Models\\Client.cs",
+              "RelativeToolTip": "TP2_razor\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:40:27.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TP2_razor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T18:38:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exemple2.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\pagesRazor\\Exemple2.cshtml",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\pagesRazor\\Exemple2.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\pagesRazor\\Exemple2.cshtml",
+              "RelativeToolTip": "TP2_razor\\Pages\\pagesRazor\\Exemple2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T18:37:45.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exemple1.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\pagesRazor\\Exemple1.cshtml",
+              "RelativeDocumentMoniker": "TP2_razor\\Pages\\pagesRazor\\Exemple1.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\TP2_razor\\TP2_razor\\Pages\\pagesRazor\\Exemple1.cshtml",
+              "RelativeToolTip": "TP2_razor\\Pages\\pagesRazor\\Exemple1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T18:37:30.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
