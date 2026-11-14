@@ -1,0 +1,20 @@
+﻿@page
+@model GestionLivres.Pages.AfficherAuteurModel
+@{
+    ViewData["Title"] = "Edit Auteur";
+}
+<div>
+    <h1>Editer un auteur</h1>
+    <form name="AuteurForm" id="AuteurForm" method="post">
+        <input name="IDAuteur" type="text" value="@Model.Aut.IDAuteur" hidden />
+        Nom :<br />
+        <input name="NomAuteur" type="text" value="@Model.Aut.NomAuteur" class="form-control input-lg" autofocus required /><br />
+        Email :<br />
+        <input name="EmailAuteur" type="text" value="@Model.Aut.EmailAuteur" class="form-control input-lg" required /><br />
+        Téléphone :<br />
+        <input name="telephoneAut" type="text" value="@Model.Aut.telephonAut" class="form-control input-lg" required /><br />
+        Adresse :<br />
+        <input name="AdresseAut" type="text" value="@Model.Aut.AdresseAut" class="form-control input-lg" required /><br />
+        <input id="saveButton" type="submit" value="Save" class="btn btn-info" />
+    </form>
+</div>

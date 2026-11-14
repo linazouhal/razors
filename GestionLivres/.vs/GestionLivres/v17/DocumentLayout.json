@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\tp\\GestionLivres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\supprimerauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\supprimerauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\supprimerauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\supprimerauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\afficherauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\afficherauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\afficherauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\afficherauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\nouveauauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\nouveauauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\nouveauauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\nouveauauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\listeauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\listeauteur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\pages\\listeauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\pages\\listeauteur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|c:\\dotnet\\tp\\gestionlivres\\gestionlivres\\models\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957682C-F785-4EE8-81C4-5BD4F8FC76A4}|GestionLivres\\GestionLivres.csproj|solutionrelative:gestionlivres\\models\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupprimerAuteur.cshtml.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\SupprimerAuteur.cshtml.cs",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\SupprimerAuteur.cshtml.cs",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\SupprimerAuteur.cshtml.cs",
+              "RelativeToolTip": "GestionLivres\\Pages\\SupprimerAuteur.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:37:29.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupprimerAuteur.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\SupprimerAuteur.cshtml",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\SupprimerAuteur.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\SupprimerAuteur.cshtml",
+              "RelativeToolTip": "GestionLivres\\Pages\\SupprimerAuteur.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T12:37:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AfficherAuteur.cshtml.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\AfficherAuteur.cshtml.cs",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\AfficherAuteur.cshtml.cs",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\AfficherAuteur.cshtml.cs*",
+              "RelativeToolTip": "GestionLivres\\Pages\\AfficherAuteur.cshtml.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:36:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AfficherAuteur.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\AfficherAuteur.cshtml",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\AfficherAuteur.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\AfficherAuteur.cshtml*",
+              "RelativeToolTip": "GestionLivres\\Pages\\AfficherAuteur.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T12:35:51.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NouveauAuteur.cshtml.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\NouveauAuteur.cshtml.cs",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\NouveauAuteur.cshtml.cs",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\NouveauAuteur.cshtml.cs",
+              "RelativeToolTip": "GestionLivres\\Pages\\NouveauAuteur.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:35:02.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NouveauAuteur.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\NouveauAuteur.cshtml",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\NouveauAuteur.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\NouveauAuteur.cshtml",
+              "RelativeToolTip": "GestionLivres\\Pages\\NouveauAuteur.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T12:34:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionLivres\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T12:17:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListeAuteur.cshtml.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\ListeAuteur.cshtml.cs",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\ListeAuteur.cshtml.cs",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\ListeAuteur.cshtml.cs",
+              "RelativeToolTip": "GestionLivres\\Pages\\ListeAuteur.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:15:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListeAuteur.cshtml",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\ListeAuteur.cshtml",
+              "RelativeDocumentMoniker": "GestionLivres\\Pages\\ListeAuteur.cshtml",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Pages\\ListeAuteur.cshtml",
+              "RelativeToolTip": "GestionLivres\\Pages\\ListeAuteur.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T12:14:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Models\\Db.cs",
+              "RelativeDocumentMoniker": "GestionLivres\\Models\\Db.cs",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Models\\Db.cs",
+              "RelativeToolTip": "GestionLivres\\Models\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:11:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auteur.cs",
+              "DocumentMoniker": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Models\\Auteur.cs",
+              "RelativeDocumentMoniker": "GestionLivres\\Models\\Auteur.cs",
+              "ToolTip": "C:\\dotnet\\tp\\GestionLivres\\GestionLivres\\Models\\Auteur.cs",
+              "RelativeToolTip": "GestionLivres\\Models\\Auteur.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:09:48.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿@page
+@model GestionLivres.Pages.NouveauAuteurModel
+@{
+    ViewData["Title"] = "Nouveau Auteur";
+}
+<div>
+    <h1>Nouveau Auteur</h1>
+    <form name="AjouterAuteur" id="AjouterAuteur" method="post">
+        Nom Auteur :<br />
+        <input name="NomAuteur" type="text" class="form-control input-lg" autofocus required />
+        <br />
+        Email Auteur :<br />
+        <input name="EmailAuteur" type="text" class="form-control input-lg" required />
+        <br />
+        Téléphone Auteur :<br />
+        <input name="telephoneAut" type="text" class="form-control input-lg" required />
+        <br />
+        Adresse :<br />
+        <input name="AdresseAut" type="text" class="form-control input-lg" required />
+        <br />
+        <input id="Ajouter" type="submit" value="Save" class="btn btn-info" />
+    </form>
+</div>

@@ -1,0 +1,42 @@
+﻿@page
+@model GestionLivres.Pages.ListeAuteurModel
+@{
+    ViewData["Title"] = "Liste des auteurs";
+}
+<h2>liste des Auteurs</h2>
+<div>
+    <h4>Voici la liste de tous les auteurs dans la base de données :</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Identifiant</th>
+                <th>Nom</th>
+                <th>Email</th>
+                <th>Téléphone</th>
+                <th>Adresse</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Aut in Model.Auteurs)
+            {
+                <tr>
+                    <td>@Aut.IDAuteur</td>
+                    <td>@Aut.NomAuteur</td>
+                    <td>@Aut.EmailAuteur</td>
+                    <td>@Aut.telephonAut</td>
+                    <td>@Aut.AdresseAut</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" href="/AfficherAuteur?id=@Aut.IDAuteur">Editer</a>
+                        <form method="post" action="/SupprimerAuteur" style="display:inline"
+                              onsubmit="return confirm('Supprimer cet auteur ?');">
+                            <input type="hidden" name="id" value="@Aut.IDAuteur" />
+                            <button type="submit" class="btn btn-danger btn-sm">Supprimer</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-info" href="/NouveauAuteur">Nouveau Auteur</a>
+</div>
